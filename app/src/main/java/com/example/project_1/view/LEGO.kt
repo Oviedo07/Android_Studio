@@ -23,7 +23,7 @@ import com.example.project_1.R
 
 
 @Composable
-fun Lego() {
+fun LEGO() {
     Column(
         modifier = Modifier
             .fillMaxSize()

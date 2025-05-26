@@ -1,4 +1,4 @@
-package com.example.project_1
+/*package com.example.project_1
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,10 +10,10 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.project_1.ui.theme.Project_1Theme
-import com.example.project_1.view.Lego
+import com.example.project_1.view.LEGO
 import com.example.project_1.view.Scroll
 
-/*
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
