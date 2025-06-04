@@ -12,12 +12,14 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.view_model.punto_1.ContadorScreen
+import com.example.view_model.punto_10.LoadingButtonScreen
 import com.example.view_model.punto_2.LoginScreen
 import com.example.view_model.punto_3.PhoneScreen
 import com.example.view_model.punto_4.ThemeToggleScreen
 import com.example.view_model.punto_5.PasswordStrengthScreen
 import com.example.view_model.punto_6.RegisterScreen
 import com.example.view_model.punto_8.TextLimitScreen
+import com.example.view_model.punto_9.EmailValidationScreen
 import com.example.view_model.ui.theme.View_ModelTheme
 
 class MainActivity : ComponentActivity() {
@@ -57,6 +59,8 @@ fun GreetingPreview() {
         //6. RegisterScreen()
         //7. TaskListScreen()
         //8. TextLimitScreen()
+        //9. EmailValidationScreen()
+        //10. LoadingButtonScreen()
     }
 }
 
