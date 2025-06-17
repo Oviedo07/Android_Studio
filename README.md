@@ -4,16 +4,34 @@ Este repositorio contiene una recopilación de actividades desarrolladas en **An
 
 ## 🧩 Contenido del repositorio
 
-- Ejercicios prácticos con ViewModel
-- Validaciones de formularios y estados
-- Retroalimentación visual dinámica (colores, animaciones)
+- Ejercicios prácticos con `ViewModel`
+- Validaciones de formularios y gestión de estados
+- Retroalimentación visual dinámica (colores, condiciones, respuestas)
 - Integración con bases de datos locales y remotas
-- Navegación entre pantallas con Jetpack Navigation
-
-## 💡 Propósito
-
-Este repositorio sirve como base de estudio y práctica para afianzar conceptos modernos de desarrollo de interfaces en Android, enfocados en productividad, limpieza de código y escalabilidad.
+- Navegación entre pantallas usando Jetpack Navigation
 
 ---
 
-> Proyecto educativo desarrollado por **Oviedo07**
+## 🗂 Organización del Repositorio
+
+Cada actividad está organizada en una **rama individual**, lo que permite mantener separados los proyectos sin interferencias entre ellos.
+
+🔹 Por ejemplo:
+
+| Rama              | Contenido                                      |
+|-------------------|-----------------------------------------------|
+| `main`            | Documentación general del repositorio         |
+| `ViewModel`       | Ejercicios con patrón MVVM y estados          |
+| `Actividades_Vistas` | Actividades con múltiples vistas o pantallas |
+| `Api_Next`        | Actividades con consumo de API                |
+| `Notas`           | Sistema de notas y persistencia de datos      |
+
+---
+
+## 💡 Propósito
+
+Este repositorio sirve como una base educativa y práctica para dominar los conceptos modernos de desarrollo Android con Compose. Ideal para estudiantes, docentes y autodidactas que buscan comprender a fondo cómo construir interfaces reactivas y escalables.
+
+---
+
+> Proyecto desarrollado por **Oviedo07** con fines académicos.
